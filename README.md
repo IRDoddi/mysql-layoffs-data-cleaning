@@ -34,13 +34,13 @@ The project involved:
 The original dataset was imported into MySQL and reviewed for duplicates,
 missing values and inconsistencies.
 
-![Raw Dataset](screenshots/raw_data.png)
+![Raw Dataset](raw_data.png)
 
 ## After
 
 The dataset was cleaned and prepared for future analysis.
 
-![Cleaned Dataset](screenshots/cleaned_data.png)
+![Cleaned Dataset](Cleaned_Data.png)
 
 ## Key Learning
 

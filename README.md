@@ -8,6 +8,10 @@ This project focuses on cleaning and preparing a layoffs dataset using MySQL.
 The dataset contains 2,361 records across 9 columns and was used to practise
 SQL data-cleaning techniques on a realistic dataset.
 
+### Project Note
+
+> This project was completed as part of my Data Analyst Bootcamp by Alex The Analyst. I used the project to practice applying SQL data-cleaning techniques to a real-world dataset.
+
 ## Tools
 
 - MySQL
